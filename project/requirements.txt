@@ -1,5 +1,4 @@
-pyTelegramBotAPI
-scikit-learn
-flask
-numpy
-pickle-mixin
+pyTelegramBotAPI==4.8.0
+scikit-learn==1.3.0
+numpy==1.24.3
+flask==2.3.0
