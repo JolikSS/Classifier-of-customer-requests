@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+scikit-learn
+flask
+numpy
+pickle-mixin
